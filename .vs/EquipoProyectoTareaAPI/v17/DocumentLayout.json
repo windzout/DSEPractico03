@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\views\\home\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\views\\home\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\views\\home\\actualizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\views\\home\\actualizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\views\\home\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\views\\home\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\views\\_viewimports.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\views\\_viewimports.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\entities\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\entities\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\controllers\\autenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\entities\\autorizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\entities\\autorizacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\controllers\\micontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\controllers\\micontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\entities\\mimodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\entities\\mimodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\entities\\miservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\entities\\miservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\controllers\\mimodelocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\controllers\\mimodelocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\controllers\\due\u00F1ocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\controllers\\due\u00F1ocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\entities\\autenticacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\entities\\autenticacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\entities\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\entities\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\entities\\usurario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\entities\\usurario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\entities\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\entities\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\controllers\\proyetocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\controllers\\proyetocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\entities\\due\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\entities\\due\u00F1o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\controllers\\miembrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\controllers\\miembrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|c:\\users\\edwin\\source\\repos\\equipoproyectotareaapi\\equipoproyectotareaapi\\entities\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083522A7-9E34-47ED-B419-64A18DA9B44D}|EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI.csproj|solutionrelative:equipoproyectotareaapi\\entities\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Views\\_ViewImports.cshtml.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Views\\_ViewImports.cshtml.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Views\\_ViewImports.cshtml.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Views\\_ViewImports.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T05:49:29.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T05:47:44.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Views\\Home\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Views\\Home\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Views\\Home\\Eliminar.cshtml",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Views\\Home\\Eliminar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T05:39:55.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Actualizar.cshtml",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Views\\Home\\Actualizar.cshtml",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Views\\Home\\Actualizar.cshtml",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Views\\Home\\Actualizar.cshtml",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Views\\Home\\Actualizar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T05:39:31.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Views\\Home\\Crear.cshtml",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Views\\Home\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Views\\Home\\Crear.cshtml",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Views\\Home\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T05:38:59.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T05:37:55.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MiServicio.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\MiServicio.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Entities\\MiServicio.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\MiServicio.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Entities\\MiServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T04:48:26.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Miembro.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\Miembro.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Entities\\Miembro.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\Miembro.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Entities\\Miembro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T02:41:16.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MiModeloController.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Controllers\\MiModeloController.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Controllers\\MiModeloController.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Controllers\\MiModeloController.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Controllers\\MiModeloController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T04:59:26.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MiModelo.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\MiModelo.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Entities\\MiModelo.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\MiModelo.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Entities\\MiModelo.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T04:47:50.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MiControlador.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Controllers\\MiControlador.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Controllers\\MiControlador.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Controllers\\MiControlador.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Controllers\\MiControlador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T04:45:49.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutorizacionService.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\AutorizacionService.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Entities\\AutorizacionService.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\AutorizacionService.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Entities\\AutorizacionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T04:43:13.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutenticacionController.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Controllers\\AutenticacionController.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Controllers\\AutenticacionController.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Controllers\\AutenticacionController.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Controllers\\AutenticacionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T04:31:35.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Program.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:37:33.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\appsettings.json",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T01:38:53.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Data\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Data\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:49:07.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AutenticacionService.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\AutenticacionService.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Entities\\AutenticacionService.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\AutenticacionService.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Entities\\AutenticacionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T04:31:00.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T04:23:36.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Usurario.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\Usurario.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Entities\\Usurario.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\Usurario.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Entities\\Usurario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T04:14:47.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Due\u00F1oController.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Controllers\\Due\u00F1oController.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Controllers\\Due\u00F1oController.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Controllers\\Due\u00F1oController.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Controllers\\Due\u00F1oController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:57:56.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Due\u00F1o.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\Due\u00F1o.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Entities\\Due\u00F1o.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\Due\u00F1o.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Entities\\Due\u00F1o.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA1wCsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T02:41:40.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProyetoController.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Controllers\\ProyetoController.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Controllers\\ProyetoController.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Controllers\\ProyetoController.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Controllers\\ProyetoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:55:10.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EquipoController.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Controllers\\EquipoController.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Controllers\\EquipoController.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Controllers\\EquipoController.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Controllers\\EquipoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:52:37.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\Proyecto.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Entities\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\Proyecto.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Entities\\Proyecto.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAQwD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:43:45.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\Tarea.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Entities\\Tarea.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\Tarea.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Entities\\Tarea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:43:54.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MiembroController.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Controllers\\MiembroController.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Controllers\\MiembroController.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Controllers\\MiembroController.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Controllers\\MiembroController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowE0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:49:54.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TareaController.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Controllers\\TareaController.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Controllers\\TareaController.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Controllers\\TareaController.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Controllers\\TareaController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAHEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:56:43.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\Equipo.cs",
+              "RelativeDocumentMoniker": "EquipoProyectoTareaAPI\\Entities\\Equipo.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\EquipoProyectoTareaAPI\\EquipoProyectoTareaAPI\\Entities\\Equipo.cs",
+              "RelativeToolTip": "EquipoProyectoTareaAPI\\Entities\\Equipo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwv0wAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T01:43:36.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
